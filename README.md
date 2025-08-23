@@ -34,6 +34,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
     <td align="center" width="50%" valign="top">
+      <br>
       <h3>Let's Connect 🤝</h3>
       <p>
         <a href="https://linkedin.com/in/nikshith-g-08368a246/" target="_blank">
