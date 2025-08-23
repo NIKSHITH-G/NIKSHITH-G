@@ -23,13 +23,15 @@
 <tr>
 </table>
 
-
+<br>
+<br>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,github,java,html,css,js,mysql,mongodb,react&perline=10" />
   </a>
 </p>
+
 <table align="center">
   <tr>
     <!-- Left: Top Languages -->
