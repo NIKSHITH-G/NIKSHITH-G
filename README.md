@@ -27,6 +27,7 @@
     <img src="https://skillicons.dev/icons?i=py,django,github,java,html,css,js,mysql,mongodb,react&perline=10" />
   </a>
 </p>
+<hr>
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
