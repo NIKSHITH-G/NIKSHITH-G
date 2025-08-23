@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=py,django,github,java,html,css,js,mysql,mongodb,react&perline=10" />
   </a>
 </p>
-
+<br/>
 <table align="center">
   <tr>
     <!-- Left: Top Languages -->
