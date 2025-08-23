@@ -13,7 +13,6 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
----
 
 <!-- GitHub Stats -->
 <table align="center">
