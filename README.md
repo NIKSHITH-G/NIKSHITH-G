@@ -30,10 +30,11 @@
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
+      <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <h3>Let's Connect 👥</h3>
+      <h3>Let's Connect 🤝</h3>
       <p>
         <a href="https://linkedin.com/in/nikshith-g-08368a246/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="36" />
