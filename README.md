@@ -12,10 +12,15 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NIKSHITH-G&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<table align="center">
+<tr>
+  <td>
+    
+<a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="NIKSHITH-G"/></a>
+  </td>
+  <td>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>  </td>
+<tr>
+</table>
 
 
