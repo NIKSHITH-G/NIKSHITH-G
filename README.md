@@ -9,8 +9,8 @@
 </h1>
 
 <!-- Subtitle -->
-<p align="center">
-  <img src="https://img.shields.io/badge/👨🏻‍💻%20Writing%20code,%20breaking%20things,%20fixing%20them,%20and%20celebrating%20the%20tiny%20victories%20🎉😎-4E5094?style=flat&logoColor=white" />
+<p align="center" style="border: none;color: rgb(78,80,148); font-weight: normal; font-size: 1.5rem;">
+  👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
 ---
