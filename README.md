@@ -13,6 +13,14 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20I'm%20Nikshith-4E5094?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👨🏻‍💻%20Writing%20code,%20breaking%20things,%20fixing%20them,%20and%20celebrating%20the%20tiny%20victories%20🎉😎-4E5094?style=flat&logoColor=white" />
+</p>
+
 ---
 
 <!-- GitHub Stats -->
