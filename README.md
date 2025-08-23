@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e85d6fc6-56bb-481e-a66f-d2f40c4a55f8" alt="setup-wireframe" />
+  <img width="1162" height="1124" alt="Screenshot 2025-08-23 at 7 22 53 PM" src="https://github.com/user-attachments/assets/4fa7a43c-10f7-468a-b20d-a620d6b21e96" />
 </p>
+
+
 <br>
 
 
@@ -14,14 +16,4 @@
 </p>
 
 
-<table align="center">
-<tr>
-  <td>
-<a href="https://sameerasw.netlify.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/></a>
-  </td>
-  <td>
-<!-- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerasw&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Sameera Sandakelum's GitHub Readme Streak Stats" /> </a> -->
-    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  </td>
-<tr>
-</table>
+
