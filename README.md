@@ -22,3 +22,10 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>  </td>
 <tr>
 </table>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,github,java,html,css,js,mysql,mongodb,react,=light&perline=10" /><br>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ 
