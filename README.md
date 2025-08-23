@@ -36,9 +36,6 @@
     <td align="center" width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td>
-    
-    <!-- Right: Socials -->
-    
     <td align="center" width="50%" valign="top">
       <h3>Let's Connect</h3>
       <p>
