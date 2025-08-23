@@ -19,9 +19,11 @@
 <table align="center">
   <tr>
     <td align="center">
+      <br>
       <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td align="center">
+      <br>
       <img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
     </td>
   </tr>
