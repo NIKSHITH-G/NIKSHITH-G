@@ -28,8 +28,6 @@
   </a>
 </p>
 <br>
-<br>
-<br>
 <table align="center">
   <tr>
     <!-- Left: Top Languages -->
