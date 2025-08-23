@@ -30,5 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
  
 
-## 🌐 Socials:
+<p align="center">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SxFNyqAV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NIKSHITH.NIKKY.3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikky_senpai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikshith-g-08368a246/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/NIKSHITH-G/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.nikshith74@gmail.com) 
+</p>
