@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <br>
-      <img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+      <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
