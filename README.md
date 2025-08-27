@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <br>
-      <img src="https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&type=png" alt="GitHub Streak"/>
+      [![GitHub Streak](https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&type=png)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
