@@ -19,12 +19,12 @@
   <tr>
     <td align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <br>
-      [![GitHub Streak](https://streak-stats.demolab.com?user=NIKSHITH-G&theme=blue-navy&type=png)](https://git.io/streak-stats)
-    </td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NIKSHITH-G&theme=blue_navy&hide_border=false" alt="GitHub Stats"/>
+      </td>
   </tr>
 </table>
 
@@ -59,3 +59,5 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="36" width="36" />
   </a>
 </p>
+
+
