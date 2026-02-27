@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <br>
-      <img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=radical" alt="GitHub Stats"/>
       </td>
   </tr>
 </table>
