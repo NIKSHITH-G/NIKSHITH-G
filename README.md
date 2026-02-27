@@ -13,7 +13,6 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" alt="GitHub Streak" /></a>
 <!-- GitHub Stats --> 
 <table align="center">
   <tr>
