@@ -14,17 +14,14 @@
 </p>
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" />
-      </a>
+      <img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" />
     </td>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl" />
     </td>
   </tr>
 </table>
