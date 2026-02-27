@@ -15,18 +15,15 @@
 
 <!-- GitHub Stats -->
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl"/>
+</td>
+</tr>
 </table>
 
 
