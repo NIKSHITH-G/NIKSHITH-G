@@ -13,18 +13,10 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
-<!-- GitHub Stats -->
-<table align="center">
-<tr>
-<td>
-<img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl"/>
-</td>
-
-<td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKSHITH-G&theme=nightowl"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" />
+</p>
 
 
 <!-- Skills -->
