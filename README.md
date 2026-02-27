@@ -19,6 +19,7 @@
     <td align="center">
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+      <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=NIKSHITH-G&theme=nightowl" alt="GitHub Streak" /></a>
     </td>
     <td align="center">
       <br>
