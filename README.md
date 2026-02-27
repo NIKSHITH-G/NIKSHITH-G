@@ -21,7 +21,7 @@
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=NIKSHITH-G&show_icons=true&theme=nightowl"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKSHITH-G&theme=nightowl"/>
 </td>
 </tr>
 </table>
