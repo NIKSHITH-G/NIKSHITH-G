@@ -16,7 +16,14 @@
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
 
-<!-- Skills -->
+<!-- Table -->
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=NIKSHITH-G&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
+
+<!-- Skills -->
+<p align="center">
+  <a href="https://nikshith.online" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py,django,github,java,html,css,js,mysql,mongodb,react&perline=10" />
+  </a>
 </p>
