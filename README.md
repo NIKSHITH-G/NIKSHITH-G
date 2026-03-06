@@ -15,7 +15,6 @@
 <p align="center" style="border: none;color: rgb(78,80,148); font-weight: normal; font-size: 1.5rem;">
   👨🏻‍💻 Writing code, breaking things, fixing them, and celebrating the tiny victories along the way 🎉😎
 </p>
-<br>
 <!-- Table -->
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=NIKSHITH-G&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
