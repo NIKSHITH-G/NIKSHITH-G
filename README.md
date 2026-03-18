@@ -5,13 +5,10 @@
   </a>
 </p>
 
-
-
 <!-- Title -->
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nikshith
 </h1>
-
 
 <!-- Subtitle -->
 <p align="center" style="border: none;color: rgb(78,80,148); font-weight: normal; font-size: 1.5rem;">
